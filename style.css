@@ -15,6 +15,19 @@ body{
  
 }
 
+ @media screen and(max-width: 480px) {
+    img {
+    border: 0;
+    }
+    }
+@media screen and (min-width: 600px) {
+　 　}
+@media screen and(min-width: 1280px) {
+    img {
+    border: 1px solid red;
+    }
+}
+
 header {
     font-size:25px;
 	background-color: #e2c10066;
