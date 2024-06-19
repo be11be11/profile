@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 @media screen and (max-width:275px){  
-div.flex-area {border:5px solid lime; width: 99.9%; ; height: 175vh; }
+div.rlex-area {border:5px solid lime; width: 99.9%; ; height: 175vh; }
 div.親1 {border:5px solid aqua; width: 99%; height: 240px; margin: -10% 0%; background-image: url("profile header neko 1.jpg"); background-size:105% 100%; background-repeat: no-repeat;}
 div.親2 {border:5px solid red; width: 99%; height: 185vh; text-align: center; background-image: url("PNG megane 1.png"); background-size: 99.5% 99.5%; background-repeat: no-repeat; }
 div.子 {border:10px solid pink; width: 99.5%; height: 180vh; display: flex; flex-wrap:wrap; text-align: center; background-color: rgba(230,230,230,0.35); box-sizing: border-box; background-repeat: no-repeat; }
@@ -12,7 +12,7 @@ div.footer1 {border:5px solid red; width: 72.5%; height: 100%; background-image:
 }
 
 @media screen and (min-width:276px) and (max-width:500px){
-div.flex-area {border:10px solid lime; width: 99.9%; height: 175vh; }
+div.frex-area {border:10px solid lime; width: 99.9%; height: 175vh; }
 div.親1 {border:10px solid aqua; width: 99%; height: 240px;  margin: -10% 0%; background-image: url("profile header neko 1.jpg"); background-size:105% 100%; background-repeat: no-repeat;}
 div.親2 {border:10px solid red; width: 99%; height: 140vh; text-align: center; background-image: url("PNG megane 1.png"); background-size: 99.5% 99.5%; background-repeat: no-repeat; }
 div.子 {border:10px solid pink; width: 99.5%; height: 130vh; display: flex; flex-wrap:wrap; text-align: center; background-color: rgba(230,230,230,0.35); box-sizing: border-box; background-repeat: no-repeat; }	
@@ -23,7 +23,7 @@ div.footer1 {border:10px solid red; width: 72.5%; height: 100%; background-image
 }
 
  @media screen and (min-width:501px){
-div.flex-area {border:15px solid lime; width: 99.9%; height: 150vh; }
+div.frex-area {border:15px solid lime; width: 99.9%; height: 150vh; }
 div.親1 {border:15px solid aqua; height: 45vh; margin: -2.5% 0%; background-image: url("profile header neko 1.jpg"); background-size:105% 100%; width: 70vh; background-repeat: no-repeat;}
 div.親2 {border:15px solid red; width: 99%; height: 95vh; display: flex; text-align: center; background-image: url("profile main megane 1.jpeg"); background-size:100% 100%; background-repeat: no-repeat; position: relative; }
 div.子 {border:10px solid pink; width: 99.5%; height: 85vh; display: flex;  flex-wrap: nowrap; text-align: center; background-color: rgba(230,230,230,0.35); box-sizing: border-box; background-repeat: no-repeat; }
