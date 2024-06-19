@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@media screen and (min-width:10px) and (max-width:500px){
+@media screen and (max-width:275px){
   
 div.祖 {border:2px solid lime; width: 100%; display:flex; flex-flow: column; position: relative; }
 div.親1 {border:2px solid aqua; width: 100%; height: 240px; background-image: url("profile header neko 1.jpg"); background-size:105% 100%; background-repeat: no-repeat;}
@@ -12,26 +12,26 @@ div.footer1 {border:2px solid red; width: 72.5%; height: 150px; background-image
 	  
 }
 
+@media screen and (min-width:276px) and (max-width:500px){
+  
+div.祖 {border:2px solid lime; width: 100%; display:flex; flex-flow: column; position: relative; }
+div.親1 {border:2px solid aqua; width: 100%; height: 240px; background-image: url("profile header neko 1.jpg"); background-size:105% 100%; background-repeat: no-repeat;}
+div.親2 {border:2px solid red; width: 100%; height: 700px; text-align: center; background-image: url("PNG megane 1.png"); background-size:100% 100%; background-repeat: no-repeat; }
+div.子 {border:2px solid pink; flex-wrap:wrap; width: 99.9%; height: 698px; display: flex; text-align: center; background-color: rgba(230,230,230,0.35); box-sizing: border-box; background-repeat: no-repeat; }	
+div.text1 {border:2px solid lime; box-sizing: border-box; width: 99.9%; padding: 0.3% 0.3%; font-family: serif; letter-spacing: 0.1em; line-height: 1.5; font-weight: 550; text-align: center; }
+div.text2 {border:2px solid aqua; box-sizing: border-box; width: 99.9%; padding: 0.3% 0.3%; font-family: serif; letter-spacing: 0.125em; line-height: 1.5; font-weight: 550; text-align: center; }	
+div.footer1 {border:2px solid red; width: 72.5%; height: 150px; background-image: url("profile footer dejima 1.jpg"); background-size:105% 100%; background-repeat: no-repeat; }	
+	  
+}
 
- @media screen and (min-width:501px) and (max-width:1400px){
+ @media screen and (min-width:501px){
    
 div.祖 {border:2px solid lime; width: 100%; display:flex; flex-flow: column; position: relative; }
 div.親1 {border:2px solid aqua; width: 100%; height: 500px; background-image: url("profile header neko 1.jpg"); background-size:105% 100%; background-repeat: no-repeat;}
 div.親2 {border:2px solid red; width: 100%; height: 970px; display: flex; text-align: center; background-image: url("profile main megane 1.jpeg"); background-size:100% 100%; background-repeat: no-repeat; position: relative; }
-div.子 {border:2px solid pink; flex-wrap:wrap; width: 99.5%; height: 99.9%; display: flex; text-align: center; background-color: rgba(230,230,230,0.35); box-sizing: border-box; background-repeat: no-repeat; }	
+div.子 {border:2px solid pink; width: 99.5%; height: 99.9%; display: flex; text-align: center; background-color: rgba(230,230,230,0.35); box-sizing: border-box; background-repeat: no-repeat; }	
 div.text1 {border:2px solid lime; box-sizing: border-box; width: 99.5%; padding: 0.3% 0.3%; font-size: 120%; font-family: serif; letter-spacing: 0.125em; line-height: 1.75; font-weight: 575; text-align: center; }
 div.text2 {border:2px solid aqua; box-sizing: border-box; width: 99.5%; padding: 0.3% 0.3%; font-size: 120%; font-family: serif; letter-spacing: 0.125em; line-height: 1.75; font-weight: 575; text-align: center; }	
 div.footer1 {border:2px solid red; width: 70%; height: 300px; background-image: url("profile footer dejima 1.jpg"); background-size:105% 100%; background-repeat: no-repeat; }	   
 }
 
-   
- @media screen and (min-width:1400px) and (max-width:2000px){  
-   
-div.祖 {border:2px solid lime; width: 100%; display:flex; flex-flow: column; position: relative; }
-div.親1 {border:2px solid aqua; width: 100%; height: 750px; background-image: url("profile header neko 1.jpg"); background-size:100% 100%; background-repeat: no-repeat;}
-div.親2 {border:2px solid red; width: 100%; height: 780px; display: flex; text-align: center; background-image: url("profile main megane 1.jpeg"); background-size: 100% 100%; background-repeat: no-repeat; position: relative; }
-div.子 {border:2px solid pink; width: 99.5%; height: 99.9%; padding: 20px; display: flex; justify-content: space-around; text-align: center; background-color: rgba(230,230,230,0.35); box-sizing: border-box; background-repeat: no-repeat; }	
-div.text1 {border:2px solid lime; box-sizing: border-box; width: 40%; padding: 0.3% 0.3%; margin: 10px; font-size: 125%; font-family: serif; letter-spacing: 0.125em; line-height: 2.5; font-weight: 650; text-align: center; }
-div.text2 {border:2px solid aqua; box-sizing: border-box; width: 40%; padding: 0.3% 0.3%; margin: 10px; font-size: 125%; font-family: serif; letter-spacing: 0.125em; line-height: 2.5; font-weight: 650; text-align: center; }
-div.footer1 {wborder:2px solid red; idth: 45%; height: 325px; background-image: url("profile footer dejima 1.jpg"); background-size:105% 100%; background-repeat: no-repeat; }	    
-}
