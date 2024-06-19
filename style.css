@@ -12,7 +12,7 @@ div.footer1 {border:5px solid red; width: 97%; height: 100%; background-image: u
 }
 
 @media screen and (min-width:276px) and (max-width:500px){
-div.frex-area {border:10px solid lime; width: 99.9%; height: 1985vh; }
+div.frex-area {border:10px solid lime; width: 99.9%; height: 195vh; }
 div.親1 {border:10px solid aqua; width: 99%; height: 240px;  margin: -10% 0%; background-image: url("profile header neko 1.jpg"); background-size:105% 100%; background-repeat: no-repeat;}
 div.親2 {border:10px solid red; width: 99%; height: 140vh; text-align: center; background-image: url("PNG megane 1.png"); background-size: 99.5% 99.5%; background-repeat: no-repeat; }
 div.子 {border:10px solid pink; width: 99.5%; height: 130vh; display: flex; flex-wrap:wrap; text-align: center; background-color: rgba(230,230,230,0.35); box-sizing: border-box; background-repeat: no-repeat; }	
