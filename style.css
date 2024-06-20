@@ -28,7 +28,7 @@ div.親1 {border:15px solid aqua; width: 75vw; height: 45vh; margin: -2.5% 0%; b
 div.親2 {border:15px solid red; width: 75vw; height: 100vh; display: flex; text-align: center; background-image: url("profile main megane 1.jpeg"); background-size:100% 100%; background-repeat: no-repeat; position: relative; }
 div.子 {border:10px solid pink; width: 99.95%; height: 99vh; display: flex;  flex-wrap: nowrap; text-align: center; background-color: rgba(230,230,230,0.35); box-sizing: border-box; background-repeat: no-repeat; }
 div.textA {border:5px solid yellow; box-sizing: border-box; width: 70%; margin: 5% 2%; padding: 2% 0%; } 
-div.text1 {border:15px solid lime; box-sizing: border-box; width: 95%; padding: 3% 3%; font-size: 120%; font-family: serif; letter-spacing: 0.125em; line-height: 2.25; font-weight: 575; text-align: center; }
-div.text2 {border:15px solid aqua; box-sizing: border-box; width: 95%; padding: 3% 3%; padding-bottom: 10%; font-size: 120%; font-family: serif; letter-spacing: 0.125em; line-height: 2.25; font-weight: 575; text-align: center; }	
+div.text1 {border:15px solid lime; box-sizing: border-box; width: 95%; padding: 3% 3%; font-size: 125%; font-family: serif; letter-spacing: 0.125em; line-height: 2.25; font-weight: 575; text-align: center; }
+div.text2 {border:15px solid aqua; box-sizing: border-box; width: 95%; padding: 3% 3%; font-size: 125%; font-family: serif; letter-spacing: 0.125em; line-height: 2.25; font-weight: 575; text-align: center; }	
 div.footer1 {border:15px solid red; width: 60%; height: 98%; background-image: url("profile footer dejima 1.jpg"); background-size:105% 100%; background-repeat: no-repeat; }	   
 }
