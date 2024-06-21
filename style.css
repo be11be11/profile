@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 @media screen and (max-width:275px){  
-div.rlex-area {width: 99.9%; ; height: 195vh; }
+div.frlex-area {width: 99.9%; ; height: 195vh; }
 div.親1 {width: 99%; height: 240px; margin: -10% 0%; background-image: url("profile header neko 1.jpg"); background-size:105% 100%; background-repeat: no-repeat;}
 div.親2 {width: 99%; height: 140vh; text-align: center; background-image: url("PNG megane 1.png"); background-size: 99.5% 99.5%; background-repeat: no-repeat; }
 div.子 {width: 99.9%; height: 139.9vh; display:display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; background-color: rgba(230,230,230,0.35); box-sizing: border-box; background-repeat: no-repeat; }
